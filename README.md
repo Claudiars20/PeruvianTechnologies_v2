@@ -4,6 +4,7 @@
 - **Ing. de Software I - Grupo 5**
 #### **Docente**:
 - **Quintanilla Portugal Roxana Lisette** - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+---
 ## Primer entregable 🚀
 ### **Filtrado de Requisitos:**
 * _[Documento - Modelamiento Inicial](https://docs.google.com/document/d/1M7q4YCVA49yPXfgI0AR1L0NvSsnzyWdi4P1VAVQk2mc/edit?usp=sharing)_
@@ -36,9 +37,9 @@ El orden de prioridad es del menos al más importante.
 * _[Prototipos - Requisitos](https://sistema-tutorias.netlify.app/)_
 
 ### **Informe Final📖: https://docs.google.com/document/d/1nrgpnV0zxcdLKr4X5W-S54RLQPquwF8mAW2g_-i6Gf4/edit?usp=sharing**
-
+---
 ## Segundo entregable 💻 
-
+---
 ## Autores ✒️
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
 * **Angie Escobedo Mescco - 174442** - [AngieEM](https://github.com/AnnieLoli)
