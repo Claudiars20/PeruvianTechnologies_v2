@@ -1,6 +1,6 @@
 # Proyecto - Sistema de Tutorías
 - **Universidad Nacional de San Antonio Abad del Cusco**
-- **Escuela Profesional de Ingenieria Informatica y de Sistemas**
+- **Escuela Profesional de Ingenieria Informática y de Sistemas**
 - **Ing. de Software I - Grupo 5**
 #### **Docente**:
 - **Quintanilla Portugal Roxana Lisette** - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
@@ -11,22 +11,26 @@
 * _[Rastro de Requisitos](https://docs.google.com/spreadsheets/d/1BYJ_IHNg5_HUUeqMFOn-wjE-nVORuyyRQMmVdjTW3hs/edit?usp=sharing)_
 
 ### **Priorización de Tareas - Especificación de Requisitos:**
-* _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1G0_DddKeaW2VgFvwqOBm_1lks69uKMLko81iR5MCRBY/edit?usp=sharing)_
+* _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 
 | Nº | Tareas |
 | ------------- | ------------- |
-| 1  | Completar registro de horarios de tutoría|
-| 2 | Filtrar a los estudiantes que puedan ser ayudantes de tutoría |
-| 3  |  Consultar informe de tutorías |
-| 4 |  Registrar horarios disponibles|
-| 5  | Registrar informes de estado situacional de estudiantes con R.A. |
-| 6 |  Registrar informe semestral de tutoría |
-| 7  |  Registrar fichas de tutoría |
-| 8 | Filtrar a los docentes que serán tutores  |
+| 1  | Registrar estudiantes |
+| 2 | Registrar docentes |
+| 3  | Filtrar a los docentes que serán tutores |
+| 4 | Confidencialidad Inicio de Sesión |
+| 5  | Registrar fichas de tutoría |
+| 6 | Confidencialidad Fichas de Tutoría |
+| 7  | Registrar informe semestral de tutoría |
+| 8 | Registrar informes de estado situacional de estudiantes con R.A. |
+| 9  | Actualizar datos personales |
+| 10 | Filtrar a los estudiantes que puedan ser ayudantes de tutoría |
+| 11  | Completar registro de horarios de tutoría |
+| 12 | Consultar informes de tutoría |
 
 El orden de prioridad es del menos al más importante.
 * _[Backlog de Tareas](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
-* _[Especificación de Requisitos](https://docs.google.com/spreadsheets/d/1iju1fKmdK9Pyzs_HZ66czx1-JXZJj_05wI7UjojMpCg/edit?usp=sharing)_
+* _[Especificación de Requisitos](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 
 ### **Propuesta de Valor - Formularios:**
 * _[Completar registro de horarios de tutoría](https://docs.google.com/forms/d/1-eapiA3-fniuFQQg3dk9yAqcf9Xf7Lox_J3vw0EaBK4/viewform?edit_requested=true)_
@@ -40,6 +44,11 @@ El orden de prioridad es del menos al más importante.
 ---
 ## Segundo entregable 💻 
 ---
+### **Requisitos no funcionales:**
+* _[Documento - Modelo NFR](https://docs.google.com/document/d/1yisMo8IIu_LTsbAekfa319RUSjt9fwXuhwvrn9xQUFI/edit?usp=sharing)_
+
+### **Priorización de Tareas - Especificación de Requisitos:**
+* _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 ## Autores ✒️
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
 * **Angie Escobedo Mescco - 174442** - [AngieEM](https://github.com/AnnieLoli)
