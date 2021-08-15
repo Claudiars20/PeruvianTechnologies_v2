@@ -53,7 +53,7 @@ El orden de prioridad es del menos al más importante.
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
 * **Angie Escobedo Mescco - 174442** - [AngieEM](https://github.com/AnnieLoli)
 * **Alexander Javier Huaman Guevara - 150394** - [alexanderhg222](https://github.com/alexanderhg222)
-* **Victor Pool Huillca Herrera - ** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
+* **Victor Pool Huillca Herrera - 163845** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
 * **Mileydy Ninantay Diaz - 171915** - [mile1107](https://github.com/mile1107)
 * **Carlos Enrique Quispe Chambilla - 174447** - [Carlinpe](https://github.com/Carlinpe)
 * **Claudia Luz Rojas Soto - 171805** - [Claudiars20](https://github.com/Claudiars20)
