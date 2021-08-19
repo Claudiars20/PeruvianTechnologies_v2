@@ -47,7 +47,7 @@ El orden de prioridad es del menos al más importante.
 ### **Requisitos no funcionales:**
 * _[Documento - Modelo NFR](https://docs.google.com/document/d/1yisMo8IIu_LTsbAekfa319RUSjt9fwXuhwvrn9xQUFI/edit?usp=sharing)_
 
-### **Priorización de Tareas Actualizado - Re-especificación de Requisitos:**
+### **Priorización de Tareas Actualizada - Re-especificación de Requisitos:**
 * _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 ## Autores ✒️
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
