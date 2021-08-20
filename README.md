@@ -13,6 +13,24 @@
 ### **Priorización de Tareas - Especificación de Requisitos:**
 * _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 
+### **Propuesta de Valor - Formularios:**
+* _[Completar registro de horarios de tutoría](https://docs.google.com/forms/d/1-eapiA3-fniuFQQg3dk9yAqcf9Xf7Lox_J3vw0EaBK4/viewform?edit_requested=true)_
+* _[Registrar fichas de tutoría](https://docs.google.com/forms/d/1kcSa1DAu32zFrMg5ny74mCXKe-j10h5RhPoMjRhjnuQ/viewform?edit_requested=true)_
+* _[Registrar informe semestral de tutoría](https://docs.google.com/forms/d/e/1FAIpQLScmX6z6JWO1f-nP2n7xTr8GoYhuIqikCr9gZCk3XxCZmpImUw/viewform?usp=sf_link)_
+
+### **Propuesta de Valor - Prototipos:**
+* _[Prototipos - Requisitos](https://sistema-tutorias.netlify.app/)_
+
+### **Informe Final📖: https://docs.google.com/document/d/1nrgpnV0zxcdLKr4X5W-S54RLQPquwF8mAW2g_-i6Gf4/edit?usp=sharing**
+---
+## Segundo entregable 💻 
+---
+### **Requisitos no funcionales:**
+* _[Documento - Modelo NFR](https://docs.google.com/document/d/1yisMo8IIu_LTsbAekfa319RUSjt9fwXuhwvrn9xQUFI/edit?usp=sharing)_
+
+### **Priorización de Tareas Actualizada - Re-especificación de Requisitos:**
+* _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
+
 | Nº | Tareas |
 | ------------- | ------------- |
 | 1  | Registrar estudiantes |
@@ -29,26 +47,8 @@
 | 12 | Consultar informes de tutoría |
 
 El orden de prioridad es del menos al más importante.
-* _[Backlog de Tareas](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
-* _[Especificación de Requisitos](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
+* _[Backlog de Tareas Actualizado](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
 
-### **Propuesta de Valor - Formularios:**
-* _[Completar registro de horarios de tutoría](https://docs.google.com/forms/d/1-eapiA3-fniuFQQg3dk9yAqcf9Xf7Lox_J3vw0EaBK4/viewform?edit_requested=true)_
-* _[Registrar fichas de tutoría](https://docs.google.com/forms/d/1kcSa1DAu32zFrMg5ny74mCXKe-j10h5RhPoMjRhjnuQ/viewform?edit_requested=true)_
-* _[Registrar informe semestral de tutoría](https://docs.google.com/forms/d/e/1FAIpQLScmX6z6JWO1f-nP2n7xTr8GoYhuIqikCr9gZCk3XxCZmpImUw/viewform?usp=sf_link)_
-
-### **Propuesta de Valor - Prototipos:**
-* _[Prototipos - Requisitos](https://sistema-tutorias.netlify.app/)_
-
-### **Informe Final📖: https://docs.google.com/document/d/1nrgpnV0zxcdLKr4X5W-S54RLQPquwF8mAW2g_-i6Gf4/edit?usp=sharing**
----
-## Segundo entregable 💻 
----
-### **Requisitos no funcionales:**
-* _[Documento - Modelo NFR](https://docs.google.com/document/d/1yisMo8IIu_LTsbAekfa319RUSjt9fwXuhwvrn9xQUFI/edit?usp=sharing)_
-
-### **Priorización de Tareas - Especificación de Requisitos:**
-* _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 ## Autores ✒️
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
 * **Angie Escobedo Mescco - 174442** - [AngieEM](https://github.com/AnnieLoli)
