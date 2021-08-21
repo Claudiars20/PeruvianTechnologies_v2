@@ -31,23 +31,28 @@
 ### **Priorización de Tareas Actualizada - Re-especificación de Requisitos:**
 * _[Priorización de Tareas - Binary Tree Search](https://docs.google.com/document/d/1sjAAbX6A7jTw3fwR660XypjoXVvZXGB6/edit)_
 
-| Nº | Tareas |
+| ID | Tareas |
 | ------------- | ------------- |
-| 1  | Registrar estudiantes |
-| 2 | Registrar docentes |
-| 3  | Filtrar a los docentes que serán tutores |
-| 4 | Confidencialidad Inicio de Sesión |
-| 5  | Registrar fichas de tutoría |
-| 6 | Confidencialidad Fichas de Tutoría |
-| 7  | Registrar informe semestral de tutoría |
-| 8 | Registrar informes de estado situacional de estudiantes con R.A. |
-| 9  | Actualizar datos personales |
-| 10 | Filtrar a los estudiantes que puedan ser ayudantes de tutoría |
-| 11  | Completar registro de horarios de tutoría |
-| 12 | Consultar informes de tutoría |
+| R.1  | Registrar estudiantes |
+| R.2 | Registrar docentes |
+| R.3  | Filtrar a los docentes que serán tutores |
+| R.4 | Confidencialidad Inicio de Sesión |
+| R.5  | Registrar fichas de tutoría |
+| R.6 | Confidencialidad Fichas de Tutoría |
+| R.7  | Registrar informe semestral de tutoría |
+| R.8 | Registrar informes de estado situacional de estudiantes con R.A. |
+| R.9  | Actualizar datos personales |
+| R.10 | Filtrar a los estudiantes que puedan ser ayudantes de tutoría |
+| R.11  | Completar registro de horarios de tutoría |
+| R.12 | Consultar informes de tutoría |
 
 El orden de prioridad es del menos al más importante.
 * _[Backlog de Tareas Actualizado](https://trello.com/b/q5yQTPxM/sistema-de-tutorias)_
+
+* _[Analisis COCOMO](https://github.com/Claudiars20/PeruvianTechnologies_v2/blob/main/Segundo%20Entregable/Modelo%20Cocomo/Modelo%20COCOMO%20-%20Grupo%205%20_v1.pdf)_
+* _[Analisis COCOMO - Modificaciones](https://docs.google.com/spreadsheets/d/1rGy9OhmXkGD8WhIa4cCyvNzix6uTxsbEHo4YmcbikoE/edit?usp=sharing)_
+* _[Analisis de Riesgos](https://github.com/Claudiars20/PeruvianTechnologies_v2/blob/main/Segundo%20Entregable/%C3%81nalisis%20de%20Riesgos/CuestionarioColofello.pdf)_
+* _[Artefactos compartidos](https://drive.google.com/drive/folders/18pszvrVdUryuM2GTuNk8kaXd37sYO5Cd?usp=sharing)_
 
 ## **Repositorio - Implementación MPV - Cruds ⌨️👩🏻‍💻** 
 https://github.com/Claudiars20/sistema-tutorias
