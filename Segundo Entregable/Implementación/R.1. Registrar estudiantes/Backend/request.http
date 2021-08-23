@@ -1,0 +1,33 @@
+###
+GET http://localhost:8000/api HTTP/1.1
+
+###
+POST http://localhost:8000/api HTTP/1.1
+Content-Type: application/json
+
+{
+    "CodEstudiante": "125865", 
+    "Nombres": "DELIA",
+    "ApPaterno": "DEZA",
+    "ApMaterno": "GOMEZ",
+    "Email": "125865@unsaac.edu.pe",
+    "Direccion": "Av. Sol",
+    "Telefono": "974362026"
+}
+
+###
+DELETE http://localhost:10000/api/125865 HTTP/1.1
+
+###
+PUT http://localhost:10000/api/125865 HTTP/1.1
+Content-Type: application/json
+
+{
+    "CodEstudiante": "147858", 
+    "Nombres": "ANTONIO",
+    "ApPaterno": "SALAS",
+    "ApMaterno": "QUISPE",
+    "Email": "147858@unsaac.edu.pe",
+    "Direccion": "Av. Calca",
+    "Telefono": "914989954"
+}
